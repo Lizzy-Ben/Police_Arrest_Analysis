@@ -11,3 +11,9 @@ It applies end-to-end data analysis techniques — from cleaning and transformat
 - Determine the specific Month-Year with the highest and lowest arrest counts
 - Create interactive visualizations using Plotly Express
 - Apply data cleaning, preprocessing, and exploratory data analysis (EDA)
+## Data Source
+- The dataset used is an Excel file.
+## Tools Used
+- Python
+- Jupiter Notebook
+## Exploratory Data Analysis
