@@ -1,0 +1,9 @@
+project_root/
+│
+├─ README.md
+├─ notebook.ipynb
+└─ charts/
+    ├─ question2_Arrests by Gender.png
+    ├─ question3_Arrests by Age.png
+    ├─ question4_Arrests by Ethnicity.png
+    └─ question5_Arrests by Top Times.png
