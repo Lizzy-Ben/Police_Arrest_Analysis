@@ -79,5 +79,20 @@ Non-Hispanic suspects are arrested more than twice as often as Hispanic suspects
 This suggests increased police activity or incidents around midnight, with a secondary peak in the late afternoon and evening hours.
 
 ---
+## Question 6 — Month and Year With the Highest and Lowest Arrests
+
+This analysis examines arrest trends across different months and years to identify periods with the most and fewest arrests.
+
+**Analysis:**  
+- **Highest arrests:** November 2023 — 676 arrests  
+- **Lowest arrests:** July 2024 — 3 arrests  
+
+**Insight:**  
+- Arrest activity peaked in **November 2023**, possibly reflecting higher criminal activity, increased law enforcement operations, or reporting patterns.  
+- Arrest activity was lowest in **July 2024**, which may indicate seasonal factors, policy changes, or other influences affecting arrest frequency.  
+- Tracking month-year patterns helps identify temporal trends and can support further analysis on causes behind fluctuations in arrests.
+
+---
+
 
 
