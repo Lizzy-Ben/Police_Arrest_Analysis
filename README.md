@@ -17,3 +17,67 @@ It applies end-to-end data analysis techniques — from cleaning and transformat
 - Python
 - Jupiter Notebook
 ## Exploratory Data Analysis
+# Police Arrest Data Analysis
+This project explores a police arrest dataset to uncover patterns in arrests across demographics (gender, age, ethnicity) and temporal trends (time of day). Using Python and Plotly Express, the analysis visualizes key trends and derives actionable insights.
+## Question 1 — Total Number of Suspects
+
+To establish the scale of the dataset, the total number of unique suspects was computed.
+**Analysis:**
+➡️ **23,510 suspects**
+
+This provides a solid foundation for downstream demographic, temporal, and departmental breakdowns. Understanding the dataset size ensures that subsequent insights—such as gender distribution, arrest times, and bureau patterns—are interpreted within the correct population context.
+
+---
+
+## Question 2 — Gender With the Highest Arrests
+
+The gender distribution of arrests shows a significant imbalance between male and female suspects.
+
+**Analysis:**
+
+* Male suspects: ~18,000 arrests
+* Female suspects: ~5,000 arrests
+
+**Insight:**
+Male suspects are arrested more than three times as often as female suspects, suggesting strong gender-related patterns in criminal activity, enforcement outcomes, or reporting practices. This sets the stage for deeper demographic analysis such as age and ethnicity breakdowns.
+
+---
+
+## Question 3 — Age With the Highest Arrests
+
+The age distribution of arrests reveals a clear concentration among younger adults.
+
+**Analysis:**
+
+* Age 18: highest number of arrests (~800+)
+* Ages 19–30: consistently high arrest frequencies
+* After age 30: gradual decline
+* Beyond age 50: significantly fewer arrests
+
+**Insight:**
+Late teens to late twenties represent the most active arrest age range, indicating age-related behavioral or societal factors influencing arrest likelihood.
+
+---
+
+## Question 4 — Ethnicity With the Highest Arrests
+
+The dataset shows disparities across ethnic groups.
+
+**Analysis:**
+
+* Non-Hispanic: 16,358 arrests
+* Hispanic: 7,152 arrests
+
+**Insight:**
+Non-Hispanic suspects are arrested more than twice as often as Hispanic suspects, highlighting distinct ethnic trends in arrest patterns.
+
+## Question 5 - What Time Shows the Highest Arrests.
+
+* Midnight (00:00) records the highest arrests (417 combined, accounting for duplicates)
+* Other moderately high arrest periods: Midday (12:00), Late afternoon–evening (17:00–22:00)
+
+This suggests increased police activity or incidents around midnight, with a secondary peak in the late afternoon and evening hours.
+
+---
+
+
