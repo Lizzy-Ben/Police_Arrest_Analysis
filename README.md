@@ -1,5 +1,13 @@
 ## Table of Content
 - [Project Overview](#project_overview)
+- [Objectives](#objectives)
+- [Data Source](#data_source)
+- [Tools Used](#tools_used)
+- [Exploratory Data Analysis](#exploratory_data_analysis)
+- [Findings](#findings)
+- [Recommendations](#recommendations)
+- [Conclusion](#conclusion)
+
 # Police Arrest Data Analysis
 - A Full Exploratory Data Analysis Using Python
 ## Project Overview
