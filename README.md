@@ -1,3 +1,5 @@
+## Table of Content
+- [Project Overview](#project_overview)
 # Police Arrest Data Analysis
 - A Full Exploratory Data Analysis Using Python
 ## Project Overview
@@ -17,8 +19,10 @@ It applies end-to-end data analysis techniques — from cleaning and transformat
 - Python
 - Jupiter Notebook
 ## Exploratory Data Analysis
-# Police Arrest Data Analysis
-This project explores a police arrest dataset to uncover patterns in arrests across demographics (gender, age, ethnicity) and temporal trends (time of day). Using Python and Plotly Express, the analysis visualizes key trends and derives actionable insights.
+<details>
+  
+<summary>Click here for full Exploratory Data Analysis(EDA)</summary>
+
 ## Question 1 — Total Number of Suspects
 
 To establish the scale of the dataset, the total number of unique suspects was computed.
@@ -139,6 +143,8 @@ This analysis examines arrests across police divisions by Hispanic vs. Non-Hispa
 - **Insight:** Hispanic arrests are highly geographically concentrated, and division-level differences dominate the overall city-wide proportion. Any claim about “disproportionate” arrests must consider these stark division-specific patterns.
 
 ![Assigned_Division_to_Ethnicity](<img width="1104" height="360" alt="Assigned Division by Ethnicity" src="https://github.com/user-attachments/assets/928d0de3-dcf1-4e90-b09b-2ae49360b6ea" />)
+
+</details>
 
 ---
 
