@@ -94,5 +94,22 @@ This analysis examines arrest trends across different months and years to identi
 
 ---
 
+## Question 7 — Breakdown of Arrests by Assigned Bureau with Respect to Race
+
+This analysis examines how arrests are distributed across different police bureaus with respect to race.
+
+**Analysis & Key Insights:**
+
+- The dataset is dominated by **PSB**, which accounts for ~90–92% of all arrests (~21,000 out of ~23,367). The other three bureaus combined have only ~2,400 arrests.
+- **Racial proportions vary dramatically by bureau:**  
+  - FSB: White-majority (~64% White vs. 36% Black)  
+  - ISB: Roughly even (53% White, 47% Black)  
+  - PSB: Near 50/50 split between White and Black, small Asian share (~2.5%)  
+  - MSB: Black-majority (~67% Black vs. 33% White)
+- In raw numbers, PSB contributes the overwhelming majority of both White and Black arrests (~88% of White arrests and ~91% of Black arrests), which makes city-wide totals appear roughly balanced despite very different patterns in other bureaus.
+- **Insight:** Any discussion of racial disparities must be **bureau-specific**; aggregating all bureaus together hides large geographic variation.
+
+## Question 8 - Breakdown of arrest in the assigned division with respect to ethnicity?
+
 
 
