@@ -1,9 +1,9 @@
 ## Table of Content
-- [Project_Overview](#project_overview)
+- [Project_Overview](#project-overview)
 - [Objectives](#objectives)
-- [Data_Source](#data_source)
-- [Tools_Used](#tools_used)
-- [Exploratory_Data_Analysis](#exploratory_data_analysis)
+- [Data_Source](#data-source)
+- [Tools_Used](#tools-used)
+- [Exploratory_Data_Analysis](#exploratory-data-analysis)
 - [Findings](#findings)
 - [Recommendations](#recommendations)
 - [Conclusion](#conclusion)
