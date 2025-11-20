@@ -22,10 +22,10 @@ It applies end-to-end data analysis techniques — from cleaning and transformat
 - Create interactive visualizations using Plotly Express
 - Apply data cleaning, preprocessing, and exploratory data analysis (EDA)
 ## Data Source
-- The dataset used is an Excel file.
+- Police arrest dataset (Excel file from local folder)  
 ## Tools Used
-- Python
-- Jupiter Notebook
+- Python (Pandas, NumPy, Plotly Express)  
+- Jupyter Notebook
 ## Exploratory Data Analysis
 <details>
   
@@ -152,9 +152,9 @@ This analysis examines arrests across police divisions by Hispanic vs. Non-Hispa
 
 ![Assigned_Division_to_Ethnicity](<img width="1104" height="360" alt="Assigned Division by Ethnicity" src="https://github.com/user-attachments/assets/928d0de3-dcf1-4e90-b09b-2ae49360b6ea" />)
 
-</details>
-
 ---
+
+</details>
 
 ## Findings
 
